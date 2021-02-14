@@ -1,9 +1,20 @@
-# Portfolio 
+  # Title: Portfolio
 
-## Usage
+  ## Discription: 
+  * This app is a complete portfolio of my work so far, Harrison Noblett. It shows three applications that i have complete, a Password-Generator application, a BETTER-WEATHER application, and a Get-Fit application.
 
-URL-https://harrisonnoblett.github.io/Portfolio-Updated/
+  ## Table of Contents: 
+  * [Title](#Title)
+  * [Discription](#Description)
+  * [License](#License)
+  * [Github](#Github)
+  * [Email](#Email)
 
-![Screenshot 2020-12-09 202704](https://user-images.githubusercontent.com/72479406/101713801-fe6f2b00-3a5d-11eb-8934-76ffb1c7ee08.png)
+  ## License: 
+  * MIT License
 
-This is an updated version of my Portfolio. Inside you will find a drop down menu with links to my LinkedIn and my Github as well as a card with my personal information and 3 screenshots and links to some of my previous work.
+  ## Github: 
+  *  https://github.com/HarrisonNoblett
+
+  ## Email: 
+  * https://HarrisonNoblett55@gmail.com
