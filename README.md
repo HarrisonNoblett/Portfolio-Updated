@@ -10,6 +10,9 @@
   * [Github](#Github)
   * [Email](#Email)
 
+  ## Deployed App:
+  ![Screenshot 2021-02-13 212546](https://user-images.githubusercontent.com/72479406/107867740-c52eaf00-6e42-11eb-9bad-be3936648486.png)
+
   ## License: 
   * MIT License
 
